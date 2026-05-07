@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Audio Review"
+  short_description: "Review interview recordings and answers"
+  default_prompt: "Use $interview-audio-review to analyze an interview recording from a file, Voice Memos, or another named app."
